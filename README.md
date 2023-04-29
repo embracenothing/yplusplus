@@ -43,7 +43,7 @@ Every weapon in the workouts also has spam and spray transfer activities using t
 - Workout 3: peek walls (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 - Workout 4: 1 bot rush react (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 
-All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray.
+All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray (thanks, furiousss <3).
 
 # prefire
 
