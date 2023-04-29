@@ -17,8 +17,8 @@ The main issue for me is speed and navigation, I want to be able to navigate bet
 - press G to disconnect from the map and reset all keybinds to default (autoexec)
 
 # aim
-- Workout 1: precision despawn taps - horizontal
-- Workout 2: precision despawn taps - horizontal and vertical
+- workout 1: precision despawn taps - horizontal
+- workout 2: precision despawn taps - horizontal and vertical
 - workout 3: fast flicks - horizontal
 - workout 4: fast flicks - horizontal and vertical
 
@@ -30,18 +30,18 @@ As these workouts are all raw aim, I've disabled the viewmodel and faked the sco
 You can also enable the dark mode for each setting by editing y++/yaim.cfg
 
 # recoil 
-- Workout 1: AK47 - 12, 15, 20, 26 and 30 bullet sprays
-- Workout 2: M4A4 - 10, 15, 20, 30 bullet sprays and M4A1-S - 15, 20.
-- Workout 3: Galil - 9, 17, 27, 35; Famas - 12, 28, 25; Krieg - 15, 30; AUG - 14, 20, 30.
-- Workout 4: MP9 - 12, 21, 30; MAC-10 - 12, 20, 30; MP7 - 11, 16, 30.
+- workout 1: AK47 - 12, 15, 20, 26 and 30 bullet sprays
+- workout 2: M4A4 - 10, 15, 20, 30 bullet sprays and M4A1-S - 15, 20.
+- workout 3: Galil - 9, 17, 27, 35; Famas - 12, 28, 25; Krieg - 15, 30; AUG - 14, 20, 30.
+- workout 4: MP9 - 12, 21, 30; MAC-10 - 12, 20, 30; MP7 - 11, 16, 30.
 
 Every weapon in the workouts also has spam and spray transfer activities using the legacy dots feature.
 
 # bots
-- Workout 1: strafing one taps (usp, scout, deag, awp)
-- Workout 2: strafing sprays (ak, m4a4, m4a1-s, galil, famas, krieg, aug)
-- Workout 3: peek walls (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
-- Workout 4: 1 bot rush react (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
+- workout 1: strafing one taps (usp, scout, deag, awp)
+- workout 2: strafing sprays (ak, m4a4, m4a1-s, galil, famas, krieg, aug)
+- workout 3: peek walls (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
+- workout 4: 1 bot rush react (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 
 All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray (thanks, furiousss <3).
 
@@ -49,10 +49,10 @@ All of the presets have the extended arena enabled and you should be moving as m
 
 Entering prefire loads Anubis by default. (edit the end of y++/ypre.cfg to change this)
 
-- Map 1: Ancient
-- Map 2: Nuke
-- Map 3: Overpass
-- Map 4: Vertigo
+- map 1: Ancient
+- map 2: Nuke
+- map 3: Overpass
+- map 4: Vertigo
 - 
 (Change which maps keys 1-4 load by editing y++/binds/binds_ypre.cfg, there is also an option to specify binds for next/previous map and just cycle between them)
 
