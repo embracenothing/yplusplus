@@ -29,7 +29,7 @@ You can create your own presets by using yprac client activity editor, playing t
 - workout 3: fast flicks - horizontal
 - workout 4: fast flicks - horizontal and vertical
 
-Press Z to restart current activity.
+Use Z key to restart current activity.
 
 Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind. (thanks, launders <3)
 
@@ -46,7 +46,7 @@ You can also enable the dark mode for each setting by editing y++/yaim.cfg
 
 Every weapon in the workouts also has spam and spray transfer activities using the legacy dots feature.
 
-Press X to change handedness.
+Use X key to change handedness.
 
 ## bots
 - workout 1: strafing one taps (usp, scout, deag, awp)
@@ -54,7 +54,7 @@ Press X to change handedness.
 - workout 3: peek walls (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 - workout 4: 1 bot rush react (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 
-Press C to restart current activity.
+Use C key to restart current activity.
 
 All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray. (thanks, furiousss <3)
 
@@ -71,6 +71,6 @@ Entering prefire loads Anubis by default. (edit the end of y++/ypre.cfg to chang
 
 Keys Q and E navigate between the prefire paths.
 
-Press V to restart current prefire path.
+Use V key to restart current prefire path.
 
 Prefire settings are: deag/scout, +100hp per kill, bots hostile, bot weapon is scout. I find these settings to be the most balanced, as it requires high precision but the bots aren't insta-killing you.
