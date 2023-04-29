@@ -34,7 +34,7 @@ Z key restarts current activity.
 
 Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind. (thanks, launders <3)
 
-Workouts 3 and 4 spawn target after a short delay. target duration is 400ms. In the cases where the target is moving, it's speed is roughly equivalent to a head moving at deagle/smg speed.
+Workouts 3 and 4 spawn target after a short delay. target duration is 400ms. In the cases where the target is moving, it's size to speed ratio is roughly equivalent to a head moving at deagle/smg speed.
 
 As these workouts are all raw aim, I've disabled the viewmodel and faked the scoped weapons with a full-screen crosshair.
 You can also enable the dark mode for each setting by editing y++/yaim.cfg
