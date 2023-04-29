@@ -22,6 +22,8 @@ You can create your own presets by using yprac client activity editor, playing t
 - keys Z, X, C, and V start aim, recoil, bots and prefire, respectively
 - press G to disconnect from the map and reset all keybinds to default (autoexec)
 
+recoil, bots and prefire modes use handedness switcher that automatically changes handedness every 10 shots/sprays, this un-trains dependence on viewmodel when peeking/spraying. You can disable it by editing binds in y++\binds
+
 ## aim
 - workout 1: precision despawn taps - horizontal
 - workout 2: precision despawn taps - horizontal and vertical
