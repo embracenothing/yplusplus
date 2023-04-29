@@ -12,7 +12,7 @@ The main issue for me is speed and navigation, I want to be able to navigate bet
 
 This assumes that all your keybinds, crosshair and viewmodel settings are loaded with autoexec.cfg
 
-All the workouts are created by using cfg files / aliases, there are no other scripts, executables, etc. Feel free to edit the preset cfg files to your liking.
+All the workouts are created by using cfg files/aliases, there are no other scripts, executables, etc. Feel free to edit the preset cfg files to your liking. All keybinds for each map are located in y++\binds\
 
 You can create your own presets by using yprac client activity editor, playing them in game and then copying the contents of cfg\yprac\yprac_setting.cfg.
 
@@ -29,7 +29,7 @@ You can create your own presets by using yprac client activity editor, playing t
 - workout 3: fast flicks - horizontal
 - workout 4: fast flicks - horizontal and vertical
 
-Use Z key to restart current activity.
+Z key restarts current activity.
 
 Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind. (thanks, launders <3)
 
@@ -44,9 +44,9 @@ You can also enable the dark mode for each setting by editing y++/yaim.cfg
 - workout 3: Galil - 9, 17, 27, 35; Famas - 12, 28, 25; Krieg - 15, 30; AUG - 14, 20, 30.
 - workout 4: MP9 - 12, 21, 30; MAC-10 - 12, 20, 30; MP7 - 11, 16, 30.
 
-Every weapon in the workouts also has spam and spray transfer activities using the legacy dots feature.
+X key changes handedness.
 
-Use X key to change handedness.
+Every weapon in the workouts also has spam and spray transfer activities using the legacy dots feature.
 
 The specific number of bullets in each recoil workout represents (in my opinion) the most important steps in the recoil pattern where it suddently changes. This allows to train the patten bit by bit.
 
@@ -56,7 +56,7 @@ The specific number of bullets in each recoil workout represents (in my opinion)
 - workout 3: peek walls (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 - workout 4: 1 bot rush react (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 
-Use C key to restart current activity.
+C key restarts current activity.
 
 All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray. (thanks, furiousss <3)
 
@@ -72,7 +72,6 @@ Entering prefire loads Anubis by default. (edit the end of y++/ypre.cfg to chang
 (Change which maps keys 1-4 load by editing y++/binds/binds_ypre.cfg, there is also an option to specify binds for next/previous map and just cycle between them)
 
 Keys Q and E navigate between the prefire paths.
-
-Use V key to restart current prefire path.
+V key restarts current prefire path.
 
 Prefire settings are: deag/scout, +100hp per kill, bots hostile, bot weapon is scout. I find these settings to be the most balanced, as it requires high precision but the bots aren't insta-killing you.
