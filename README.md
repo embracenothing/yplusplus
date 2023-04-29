@@ -27,7 +27,7 @@ You can create your own presets by using yprac client activity editor, playing t
 - workout 3: fast flicks - horizontal
 - workout 4: fast flicks - horizontal and vertical
 
-Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind. Thanks, launders <3
+Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind. (thanks, launders <3)
 
 Workouts 3 and 4 spawn target after a short delay. target duration is 400ms. In the cases where the target is moving, it's speed is roughly equivalent to a head moving at deagle/smg speed.
 
@@ -48,7 +48,7 @@ Every weapon in the workouts also has spam and spray transfer activities using t
 - workout 3: peek walls (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 - workout 4: 1 bot rush react (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 
-All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray (thanks, furiousss <3).
+All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray. (thanks, furiousss <3)
 
 ## prefire
 
