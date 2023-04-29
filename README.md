@@ -6,8 +6,13 @@ I like yprac, I use it for my warmups and training, but there are things in the 
 The main issue for me is speed and navigation, I want to be able to navigate between maps, custom workouts, and individual activities within the workout with a single keypress and without the need to alt+tab to the client. This cfg uses custom keybinds that reset back to default when leaving the map.
 
 # installation
+- make sure you have the yprac client and all the required yprac workshop maps
 - copy the contents of cfg folder to the cfg folder in your csgo installation directory
 - add the contents of add_to_autoexec.cfg file to your own autoexec file
+
+all the workouts are created by using cfg files / aliases. Feel free to edit the preset cfg files to your liking.
+
+You can create your own presets by using yprac client activity editor, playing them in game and then copying the contents of cfg\yprac\yprac_setting.cfg.
 
 # general usage
 - type "aim", "rcl", "bot" or "pre" in console to get started
