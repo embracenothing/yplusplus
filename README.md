@@ -53,7 +53,7 @@ Entering prefire loads Anubis by default. (edit the end of y++/ypre.cfg to chang
 - map 2: Nuke
 - map 3: Overpass
 - map 4: Vertigo
-- 
+
 (Change which maps keys 1-4 load by editing y++/binds/binds_ypre.cfg, there is also an option to specify binds for next/previous map and just cycle between them)
 
 Keys Q and E navigate between the prefire paths.
