@@ -2,7 +2,7 @@
 one workout to rule them all, uwu
 
 ## why
-I like yprac, I use it for my warmups and training, but there are things in the yprac client that bother me, this is an attempt to fix it that I made for myself. This is not a replacement for the yprac client, but rather a quality of life enhancement.
+I like yprac, I use it for my warmups and training, but there are things in the yprac client that bother me, this is a cfg that I made to improve my own experience. This is not a replacement for the yprac client, but rather a quality of life enhancement.
 The main issue for me is speed and navigation, I want to be able to navigate between maps, custom workouts, and individual activities within the workout with a single keypress and without the need to alt+tab to the client. This cfg uses custom keybinds that reset back to default when leaving the map.
 
 ## installation
