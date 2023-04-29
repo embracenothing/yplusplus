@@ -71,6 +71,6 @@ Entering prefire loads Anubis by default. (edit the end of y++/ypre.cfg to chang
 (Change which maps keys 1-4 load by editing y++/binds/binds_ypre.cfg, there is also an option to specify binds for next/previous map and just cycle between them)
 
 Keys Q and E navigate between the prefire paths.
-V key restarts current prefire path.
+V key restarts current prefire path. 
 
 Prefire settings are: deag/scout, +100hp per kill, bots hostile, bot weapon is scout. I find these settings to be the most balanced, as it requires high precision but the bots aren't insta-killing you.
