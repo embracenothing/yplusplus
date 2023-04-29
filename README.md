@@ -48,6 +48,8 @@ Every weapon in the workouts also has spam and spray transfer activities using t
 
 Use X key to change handedness.
 
+The specific number of bullets in each recoil workout represents (in my opinion) the most important steps in the recoil pattern where it suddently changes. This allows to train the patten bit by bit.
+
 ## bots
 - workout 1: strafing one taps (usp, scout, deag, awp)
 - workout 2: strafing sprays (ak, m4a4, m4a1-s, galil, famas, krieg, aug)
