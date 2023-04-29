@@ -8,9 +8,11 @@ The main issue for me is speed and navigation, I want to be able to navigate bet
 ## installation
 - make sure you have the yprac client and all the required yprac workshop maps
 - copy the contents of cfg folder to the cfg folder in your csgo installation directory
-- add the contents of add_to_autoexec.cfg file to your own autoexec file
+- add the contents of add_to_autoexec.cfg file to your own autoexec.cfg file
 
-all the workouts are created by using cfg files / aliases. Feel free to edit the preset cfg files to your liking.
+This assumes that all your keybinds, crosshair and viewmodel settings are loaded with autoexec.cfg
+
+All the workouts are created by using cfg files / aliases. Feel free to edit the preset cfg files to your liking.
 
 You can create your own presets by using yprac client activity editor, playing them in game and then copying the contents of cfg\yprac\yprac_setting.cfg.
 
