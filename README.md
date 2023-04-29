@@ -30,10 +30,10 @@ As these workouts are all raw aim, I've disabled the viewmodel and faked the sco
 You can also enable the dark mode for each setting by editing y++/yaim.cfg
 
 # recoil 
-- Workout 1: AK47 
-- Workout 2: M4A4 and M4A1-S
-- Workout 3: Galil, Famas, Krieg and AUG
-- Workout 4: MP9, MAC-10, MP7
+- Workout 1: AK47 - 12, 15, 20, 26 and 30 bullet sprays
+- Workout 2: M4A4 - 10, 15, 20, 30 bullet sprays and M4A1-S - 15, 20.
+- Workout 3: Galil - 9, 17, 27, 35; Famas - 12, 28, 25; Krieg - 15, 30; AUG - 14, 20, 30.
+- Workout 4: MP9 - 12, 21, 30; MAC-10 - 12, 20, 30; MP7 - 11, 16, 30.
 
 Every weapon in the workouts also has spam and spray transfer activities using the legacy dots feature.
 
