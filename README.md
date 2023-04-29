@@ -22,7 +22,7 @@ The main issue for me is speed and navigation, I want to be able to navigate bet
 - workout 3: fast flicks - horizontal
 - workout 4: fast flicks - horizontal and vertical
 
-Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind.
+Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind. Thanks, launders <3
 
 Workouts 3 and 4 spawn target after a short delay. target duration is 400ms. In the cases where the target is moving, it's speed is roughly equivalent to a head moving at deagle/smg speed.
 
