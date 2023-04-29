@@ -29,6 +29,8 @@ You can create your own presets by using yprac client activity editor, playing t
 - workout 3: fast flicks - horizontal
 - workout 4: fast flicks - horizontal and vertical
 
+Press Z to restart current activity.
+
 Workouts 1 and 2 are designed with the principle "slow is smooth and smooth is fast" in mind. (thanks, launders <3)
 
 Workouts 3 and 4 spawn target after a short delay. target duration is 400ms. In the cases where the target is moving, it's speed is roughly equivalent to a head moving at deagle/smg speed.
@@ -44,11 +46,15 @@ You can also enable the dark mode for each setting by editing y++/yaim.cfg
 
 Every weapon in the workouts also has spam and spray transfer activities using the legacy dots feature.
 
+Press X to change handedness.
+
 ## bots
 - workout 1: strafing one taps (usp, scout, deag, awp)
 - workout 2: strafing sprays (ak, m4a4, m4a1-s, galil, famas, krieg, aug)
 - workout 3: peek walls (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
 - workout 4: 1 bot rush react (usp, scout, ak, mfa1-s, galil, famas, krieg, aug, deag, awp)
+
+Press C to restart current activity.
 
 All of the presets have the extended arena enabled and you should be moving as much as possible, only stopping to shoot/spray. (thanks, furiousss <3)
 
@@ -64,5 +70,7 @@ Entering prefire loads Anubis by default. (edit the end of y++/ypre.cfg to chang
 (Change which maps keys 1-4 load by editing y++/binds/binds_ypre.cfg, there is also an option to specify binds for next/previous map and just cycle between them)
 
 Keys Q and E navigate between the prefire paths.
+
+Press V to restart current prefire path.
 
 Prefire settings are: deag/scout, +100hp per kill, bots hostile, bot weapon is scout. I find these settings to be the most balanced, as it requires high precision but the bots aren't insta-killing you.
