@@ -12,7 +12,7 @@ The main issue for me is speed and navigation, I want to be able to navigate bet
 
 This assumes that all your keybinds, crosshair and viewmodel settings are loaded with autoexec.cfg
 
-All the workouts are created by using cfg files / aliases. Feel free to edit the preset cfg files to your liking.
+All the workouts are created by using cfg files / aliases, there are no other scripts, executables, etc. Feel free to edit the preset cfg files to your liking.
 
 You can create your own presets by using yprac client activity editor, playing them in game and then copying the contents of cfg\yprac\yprac_setting.cfg.
 
