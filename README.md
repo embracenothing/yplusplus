@@ -75,4 +75,4 @@ Entering prefire loads Anubis by default. (edit the end of y++\ypre.cfg to chang
 Keys Q and E navigate between the prefire paths.
 V key restarts current prefire path. 
 
-Prefire settings are: deag/scout, +100hp per kill, bots hostile, bot weapon is scout. I find these settings to be the most balanced, as it requires high precision but the bots aren't insta-killing you.
+Prefire settings are: deag/scout, 100hp, bot weapon awp. First 5 paths are friendly for chill training, next five paths are hostile for maximum challenge.
