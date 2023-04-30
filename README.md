@@ -75,4 +75,4 @@ Entering prefire loads Anubis by default. (edit the end of y++\ypre.cfg to chang
 Keys Q and E navigate between the prefire paths.
 V key restarts current prefire path. 
 
-Prefire settings are: deag/scout, 100hp no healing, bot weapon awp. First 5 paths are friendly for chill training, next five paths are hostile for maximum challenge.
+Prefire settings are: deag/scout, 100hp no healing, bot weapon awp. First five paths are friendly for chill training, next five paths are hostile for maximum challenge.
